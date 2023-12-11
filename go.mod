@@ -1,4 +1,4 @@
-module github.com/xtaci/kcp-go/v5
+module gitlab.xgjoy.org/flowgame/kcp-go
 
 require (
 	github.com/klauspost/reedsolomon v1.11.8
@@ -6,6 +6,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/templexxx/xorsimd v0.4.2
 	github.com/tjfoc/gmsm v1.4.1
+	github.com/xtaci/kcp-go/v5 v5.6.5
 	github.com/xtaci/lossyconn v0.0.0-20190602105132-8df528c0c9ae
 	golang.org/x/crypto v0.14.0
 	golang.org/x/net v0.17.0
